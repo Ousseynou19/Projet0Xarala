@@ -1,0 +1,20 @@
+body{ font-family: Verdana, Geneva, Tahoma, sans-serif; 
+background-color: aqua;
+padding: 0;
+margin: 0;
+}
+h1{
+    font-size: 50px;
+    font-style: italic;
+    font-weight: normal;
+    color:blue
+}
+p{
+    font-size: 15px;
+    font-style: oblique;
+    font-weight: 700;
+}
+img{
+    height: 100%;
+    width: 100%;
+}
